@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Test 123
+title: cjaccino test Jekyll site
 permalink: /
 ---
-
 
 This is a test of cjaccino.github.io
 
