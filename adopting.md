@@ -1,4 +1,6 @@
 ---
+layout: page
 title: Adopting RESTspec
+permalink: /adopting.html
 ---
-ABC
+Adopting RESTspec
