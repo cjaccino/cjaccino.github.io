@@ -1,0 +1,34 @@
+- title: Client-Server
+  url: /constraints/client-server.html
+- title: Stateless
+  url: /constraints/stateless.html
+- title: Caching
+  url: /constraints/caching.html
+- title: Layout
+  url: /constraints/layout.html
+- title: Uniform Interface
+  url: /constraints/uniform-interface.html
+  sublinks:
+    - title: Resource Identification
+      url: /constraints/resource-identification.html
+    - title: Representations
+      url: /constraints/representations.html
+    - title: separator
+    - title: Self-descriptive Messages
+      url: /constraints/self-descriptive-messages.html
+    - title: Hypermedia
+      url: /constraints/Hypermedia.html
+- title: Code On Demand
+  url: /constraints/Code On Demand
+
+
+- title: Test
+  url: /constraints/
+  sublinks:
+    - title: FAQ
+      url: /faq.html
+    - title: Documentation
+      url: /documentation.html
+    - title: separator
+    - title: Customer Support
+      url: /customer-support.html
