@@ -1,11 +1,13 @@
 <header class="site-header">
+    <!--
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <!--<a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>-->
+    -->
 
+    <!--<a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>-->
     {% assign links = site.data.navigation %}
     <!--
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -129,6 +131,7 @@
     </nav>
     -->
 
-
+<!--
   </div>
+-->
 </header>
