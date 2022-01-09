@@ -1,5 +1,9 @@
 - title: Defining REST
   sublinks:
+  - title: Understanding REST
+    url: /rest/understanding-rest
+  - title: separator
+  - title: The Six (Ten) Constraints
   - title: Client-Server
     url: /constraints/client-server.html
   - title: Stateless
@@ -18,17 +22,17 @@
     - title: Self-descriptive Messages
       url: /constraints/self-descriptive-messages.html
     - title: Hypermedia
-      url: /constraints/Hypermedia.html
+      url: /constraints/hypermedia.html
   - title: Code On Demand
-    url: /constraints/Code On Demand
+    url: /constraints/code-on-demand.html
   - title: separator
-  - title: Understanding REST
-    url: /rest/understanding-rest
-
   - title: Misconceptions
-    url: /rest/misconceptions
+    url: /rest/misconceptions.html
   - title: Design Implications
-    url: /rest/design-implications
+    url: /rest/design-implications.html
+  - title: separator
+  - title: What is ROSI?
+    url: /rest/rosi.html
 
 
 - title: Web Architecture
