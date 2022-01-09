@@ -10,14 +10,15 @@
     url: /constraints/layout.html
   - title: Uniform Interface
     url: /constraints/uniform-interface.html
-  - title: Resource Identification
-    url: /constraints/resource-identification.html
-  - title: Representations
-    url: /constraints/representations.html
-  - title: Self-descriptive Messages
-    url: /constraints/self-descriptive-messages.html
-  - title: Hypermedia
-    url: /constraints/Hypermedia.html
+    sublinks:
+    - title: Resource Identification
+      url: /constraints/resource-identification.html
+    - title: Representations
+      url: /constraints/representations.html
+    - title: Self-descriptive Messages
+      url: /constraints/self-descriptive-messages.html
+    - title: Hypermedia
+      url: /constraints/Hypermedia.html
   - title: Code On Demand
     url: /constraints/Code On Demand
   - title: separator
