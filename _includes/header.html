@@ -18,7 +18,7 @@
             {% if link.sublinks %}
             {% else %}
               <li class="nav-item {{ class }}">
-                  <a href="nav-link {{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                  <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
               </li>
             {% endif %} 
         {% endfor %}
