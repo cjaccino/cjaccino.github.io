@@ -17,6 +17,21 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> 
         
         <ul class="nav navbar-nav">
+          {% for link in links %}
+            {% assign class = nil %}
+            {% if page.url contains link.url %}
+                {% assign class = 'active' %}
+            {% endif %}
+            {% if link.sublinks %}
+            {% else %}
+              <li class="{{ class }}">
+              <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+              </li>
+            {% endif %} 
+          {% endfor %}
+
+          
+          
           <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
           <li><a href="#">Link</a></li>
           <li class="dropdown">
