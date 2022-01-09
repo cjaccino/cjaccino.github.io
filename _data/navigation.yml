@@ -10,13 +10,13 @@
     url: /constraints/layout.html
   - title: Uniform Interface
     url: /constraints/uniform-interface.html
-  - title: > Resource Identification
+  - title: Resource Identification
     url: /constraints/resource-identification.html
-  - title: > Representations
+  - title: Representations
     url: /constraints/representations.html
-  - title: > Self-descriptive Messages
+  - title: Self-descriptive Messages
     url: /constraints/self-descriptive-messages.html
-  - title: > Hypermedia
+  - title: Hypermedia
     url: /constraints/Hypermedia.html
   - title: Code On Demand
     url: /constraints/Code On Demand
