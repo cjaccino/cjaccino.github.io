@@ -20,6 +20,15 @@
     url: /constraints/Hypermedia.html
   - title: Code On Demand
     url: /constraints/Code On Demand
+  - title: separator
+  - title: Understanding REST
+    url: /rest/understanding-rest
+
+  - title: Misconceptions
+    url: /rest/misconceptions
+  - title: Design Implications
+    url: /rest/design-implications
+
 
 - title: Web Architecture
 
