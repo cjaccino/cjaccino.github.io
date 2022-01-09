@@ -35,5 +35,21 @@
     url: /rest/rosi.html
 
 
-- title: Web Architecture
+- title: Modern Web Architecture
+  sublinks:
+  - title: Principles
+    url: /rest/understanding-rest
+  - title: separator
+  - title: Identifiers
+    url: /web/identifiers.html
+  - title: Content and Media Types
+    url: /web/content-and-media-types.html
+  - title: Linking
+    url: /web/linking.html
+  - title: Interacting
+    url: /web/interacting.html
+
+- title: Reference
+  sublinks:
+  
 
