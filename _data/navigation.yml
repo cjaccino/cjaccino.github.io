@@ -1,6 +1,5 @@
 - title: Defining REST
   sublinks:
-  
   - title: Client-Server
     url: /constraints/client-server.html
   - title: Stateless
@@ -11,15 +10,16 @@
     url: /constraints/layout.html
   - title: Uniform Interface
     url: /constraints/uniform-interface.html
-  - title: Resource Identification
+  - title: > Resource Identification
     url: /constraints/resource-identification.html
-  - title: Representations
+  - title: > Representations
     url: /constraints/representations.html
-  - title: separator
-  - title: Self-descriptive Messages
+  - title: > Self-descriptive Messages
     url: /constraints/self-descriptive-messages.html
-  - title: Hypermedia
+  - title: > Hypermedia
     url: /constraints/Hypermedia.html
   - title: Code On Demand
     url: /constraints/Code On Demand
+
+- title: Web Architecture
 
